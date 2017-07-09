@@ -1,0 +1,12 @@
+git clone --recursive https://github.com/ch1c0t/.vim
+ln -s .vim/main.vim .vimrc
+
+To update all plugins:
+  cd ~/.vim
+  git submodule foreach git pull origin master
+
+To remove some plugin:
+  cd ~/.vim
+  git submodule deinit pack/plugins/start/foo
+  git rm -r pack/plugins/start/foo
+  rm -r .git/modules/pack/plugins/start/foo
