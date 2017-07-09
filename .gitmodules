@@ -1,0 +1,6 @@
+[submodule "pack/all/start/vim-endwise"]
+	path = pack/all/start/vim-endwise
+	url = https://github.com/tpope/vim-endwise
+[submodule "pack/all/start/vim-surround"]
+	path = pack/all/start/vim-surround
+	url = https://github.com/tpope/vim-surround
