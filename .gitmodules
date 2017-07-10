@@ -4,3 +4,6 @@
 [submodule "pack/all/start/vim-surround"]
 	path = pack/all/start/vim-surround
 	url = https://github.com/tpope/vim-surround
+[submodule "pack/all/start/vim-coffee-script"]
+	path = pack/all/start/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script
