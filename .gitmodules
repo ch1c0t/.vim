@@ -10,3 +10,6 @@
 [submodule "pack/all/start/vim-railscasts-theme"]
 	path = pack/all/start/vim-railscasts-theme
 	url = https://github.com/jpo/vim-railscasts-theme
+[submodule "pack/all/opt/apiblueprint.vim"]
+	path = pack/all/opt/apiblueprint.vim
+	url = https://github.com/kylef/apiblueprint.vim
