@@ -16,3 +16,6 @@
 [submodule "pack/all/start/rust.vim"]
 	path = pack/all/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
+[submodule "pack/all/start/vim-slim"]
+	path = pack/all/start/vim-slim
+	url = https://github.com/slim-template/vim-slim
