@@ -17,7 +17,8 @@ set rnu
 set cursorline
 
 
-imap zx <Esc>o{<CR>}<Esc>O
-imap qw <Esc>A<Space>{<CR><Esc>O<Backspace><Tab>
+" quick curly braces(which depend on auto-pairs plugin)
+imap zx <Esc>o{<CR>
+imap qw <Esc>A<Space>{<CR>
 
 imap <C-b> ``<esc>i
