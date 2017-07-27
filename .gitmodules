@@ -19,3 +19,6 @@
 [submodule "pack/all/start/vim-slim"]
 	path = pack/all/start/vim-slim
 	url = https://github.com/slim-template/vim-slim
+[submodule "pack/all/start/auto-pairs"]
+	path = pack/all/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
