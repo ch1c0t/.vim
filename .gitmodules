@@ -19,3 +19,6 @@
 [submodule "pack/all/start/auto-pairs"]
 	path = pack/all/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/all/start/xml.vim"]
+	path = pack/all/start/xml.vim
+	url = https://github.com/othree/xml.vim
