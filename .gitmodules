@@ -25,3 +25,6 @@
 [submodule "pack/all/start/emmet-vim"]
 	path = pack/all/start/emmet-vim
 	url = https://github.com/mattn/emmet-vim
+[submodule "pack/all/start/vim-pug"]
+	path = pack/all/start/vim-pug
+	url = https://github.com/digitaltoad/vim-pug
