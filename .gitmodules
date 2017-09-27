@@ -22,3 +22,6 @@
 [submodule "pack/all/start/xml.vim"]
 	path = pack/all/start/xml.vim
 	url = https://github.com/othree/xml.vim
+[submodule "pack/all/start/emmet-vim"]
+	path = pack/all/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
