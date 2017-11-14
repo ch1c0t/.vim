@@ -28,6 +28,3 @@
 [submodule "pack/all/start/vim-pug"]
 	path = pack/all/start/vim-pug
 	url = https://github.com/digitaltoad/vim-pug
-[submodule "pack/all/start/vim-jsx-improve"]
-	path = pack/all/start/vim-jsx-improve
-	url = https://github.com/neoclide/vim-jsx-improve
