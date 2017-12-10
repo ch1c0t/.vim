@@ -1,4 +1,6 @@
-so /usr/share/vim/vim80/defaults.vim
+if filereadable("/usr/share/vim/vim80/default.vim")
+  so /usr/share/vim/vim80/defaults.vim
+endif
 
 inoremap jk <esc>
 
