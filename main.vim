@@ -1,4 +1,4 @@
-if filereadable("/usr/share/vim/vim80/default.vim")
+if filereadable("/usr/share/vim/vim80/defaults.vim")
   so /usr/share/vim/vim80/defaults.vim
 endif
 
