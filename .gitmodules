@@ -28,3 +28,6 @@
 [submodule "pack/all/start/vim-pug"]
 	path = pack/all/start/vim-pug
 	url = https://github.com/digitaltoad/vim-pug
+[submodule "pack/all/start/kotlin-vim"]
+	path = pack/all/start/kotlin-vim
+	url = https://github.com/udalov/kotlin-vim
