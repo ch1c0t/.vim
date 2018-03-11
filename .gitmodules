@@ -31,3 +31,6 @@
 [submodule "pack/all/start/kotlin-vim"]
 	path = pack/all/start/kotlin-vim
 	url = https://github.com/udalov/kotlin-vim
+[submodule "pack/all/start/vim-closetag"]
+	path = pack/all/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag
