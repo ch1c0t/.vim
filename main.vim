@@ -27,4 +27,4 @@ imap qw <Esc>A<Space>{<CR>
 
 imap <C-b> ``<esc>i
 
-let g:closetag_filenames = '*.html,*.js,*.jsx'
+let g:closetag_filenames = '*.html,*.js,*.jsx,*.coffee'
