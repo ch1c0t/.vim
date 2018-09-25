@@ -34,3 +34,6 @@
 [submodule "pack/all/start/vim-closetag"]
 	path = pack/all/start/vim-closetag
 	url = https://github.com/alvan/vim-closetag
+[submodule "pack/all/start/vim-elixir"]
+	path = pack/all/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
